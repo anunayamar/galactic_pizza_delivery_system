@@ -30,3 +30,5 @@ Refunded: 0
 Total amount charged: $37
 
 ```
+
+The code has been written using Python 3.6
